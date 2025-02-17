@@ -1,3 +1,4 @@
 # spatial_kb
-Spatial test for measure reaction time with keyboard for replicating Ivo Kohler experiment
+Spatial test for measure reaction time with keyboard for replicating Ivo Kohler experiment.
+
 Require PsychoPy installed.
